@@ -29,6 +29,7 @@ h1 {
 
 #initialParagraph {
 overflow: auto;
+	align-text: justify;
 }
 
 #copyrights {
